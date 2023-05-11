@@ -1,4 +1,5 @@
 {
+    "workbench.colorTheme": "Default Dark+",
     "editor.renderWhitespace": "all",
     "extensions.ignoreRecommendations": true,
     "debug.allowBreakpointsEverywhere": true,
