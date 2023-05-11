@@ -1,0 +1,16 @@
+{
+    "editor.renderWhitespace": "all",
+    "extensions.ignoreRecommendations": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "vim.handleKeys": { "<C-f>": false },
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "editor.detectIndentation": false
+}
