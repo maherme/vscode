@@ -13,5 +13,7 @@
             "after": ["<Esc>"]
         }
     ],
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "editor.rulers": [101],
+    "editor.minimap.enabled": false
 }
